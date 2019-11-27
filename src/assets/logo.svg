@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1199" height="107" viewBox="0 0 1199 107">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 150px;
+        font-family: Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        font-size: 83.333px;
+        font-family: "Open Sans";
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <text id="C_O_M_A_N_D_A" data-name="C O M A N D A" class="cls-1" x="-7" y="106">C O M A N D A</text>
+  <text id="_" data-name="+" class="cls-2" x="1156" y="83">+</text>
+</svg>
